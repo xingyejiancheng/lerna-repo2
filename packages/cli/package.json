@@ -1,6 +1,6 @@
 {
   "name": "@xingyejiancheng/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "edf",
   "keywords": [
     "abc"
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xingyejiancheng/cli-shared-utils": "^0.0.0",
+    "@xingyejiancheng/cli-shared-utils": "^0.0.1",
     "chalk": "^4.1.2"
   }
 }
