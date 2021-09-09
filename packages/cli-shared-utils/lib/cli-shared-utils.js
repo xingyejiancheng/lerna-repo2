@@ -1,8 +1,8 @@
 'use strict';
-
+var abc = require('lodash')
 module.exports = cliSharedUtils;
 
 function cliSharedUtils() {
     // TODO
-    console.log(8888999)
+    console.log(abc,8888999)
 }
